@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_16 (Sun Microsystems Inc.)
+Main-Class: au.com.vocus.ipfix.Main
+Class-Path: lib/commons-codec-1.10.jar lib/jsoup-1.10.3.jar
